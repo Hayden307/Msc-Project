@@ -1,6 +1,5 @@
 import cv2  # Import OpenCV library
 import numpy as np  # Import numpy library for numerical operations
-
 # Define color ranges for each Rubik's Cube color in HSV color space
 color_ranges = {
     'red':    ([0, 50, 50],   [10, 255, 255]),    # Lower and upper bounds for red
