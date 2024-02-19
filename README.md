@@ -1,4 +1,4 @@
-# Msc-Projectimport cv2  # Import OpenCV library
+import cv2  # Import OpenCV library
 import numpy as np  # Import numpy library for numerical operations
 
 # Define color ranges for each Rubik's Cube color in HSV color space
